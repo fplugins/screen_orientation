@@ -24,7 +24,7 @@ class ScreenOrientationAndroidService extends ScreenOrientationService {
 
   @override
   void setOrientationCallback(Function orientationCallback) {
-    this.lastOrientation = -1;
+    lastOrientation = -1;
     super.setOrientationCallback(orientationCallback);
   }
 }

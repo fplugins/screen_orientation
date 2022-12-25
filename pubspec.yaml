@@ -20,7 +20,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: cn.screen_orientation
+        package: cn
         pluginClass: ScreenOrientationPlugin
       ios:
         pluginClass: ScreenOrientationPlugin

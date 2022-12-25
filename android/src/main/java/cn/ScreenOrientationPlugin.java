@@ -1,4 +1,4 @@
-package cn.screen_orientation;
+package cn;
 
 import android.content.Context;
 import android.hardware.SensorManager;
